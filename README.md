@@ -296,4 +296,4 @@ if(emp.isEligibleForFullBenefits())
 - 의도를 명확히 표현하려면 조건문을 캡슐화
 - 부정문은 긍정문보다 이해하기 약간 더 어렵다
 
-
+ 
