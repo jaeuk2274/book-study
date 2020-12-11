@@ -1,12 +1,12 @@
 # book_study
 - 인상깊고 기억하고 싶은 내용 정리
 
-- [Clean Code](##Clean-Code)
-- [Refactoring](##Refactoring)
+- [Clean Code](#Clean-Code)
+- [Refactoring](#Refactoring)
 - Effective Java
 
 
-##Clean Code
+#Clean Code
 
 ### 02.의미 있는 이름
 - 의도를 분명히 밝혀라
@@ -337,5 +337,5 @@ if(emp.isEligibleForFullBenefits())
 - T2.커버리지 도구를 사용하라  
   
   
-##Refactoring
+#Refactoring
   
