@@ -1,8 +1,11 @@
 # book_study
 - 인상깊고 기억하고 싶은 내용 정리
+- Clean Code(#Clean-Code)
+- Refactoring
+- Effective Java
 
-## Clean Code
 
+#Clean Code
 ### 02.의미 있는 이름
 - 의도를 분명히 밝혀라
   - theList -> gameBoard -> 배열대신 간단한 클래스
