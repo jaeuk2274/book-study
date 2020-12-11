@@ -1,6 +1,7 @@
 # book_study
 - 인상깊고 기억하고 싶은 내용 정리
-- Clean Code(#Clean-Code)
+
+- [Clean Code](#Clean-Code)
 - Refactoring
 - Effective Java
 
