@@ -510,3 +510,4 @@ if(emp.isEligibleForFullBenefits())
 - 매개변수를 질의 함수로 바꾸기  
 
 ### 12.상속 다루기
+ 
