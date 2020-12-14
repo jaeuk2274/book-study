@@ -535,6 +535,5 @@ if(emp.isEligibleForFullBenefits())
 - 서브클래스를 위임으로 바꾸기
   - 상속의 단점. 한 번만 쓸 수 있는 카드이다.
   
-
-
+- 슈퍼클래스를 위임으로 
   
